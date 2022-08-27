@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iván
-- 👀 I am interested in developing programs that can make the world simpler and more united.  My passion for software star when I was a child dreaming up ideas and making them come true with programs like Scratch. 
+- 👀 I am interested in developing programs that can make the world simpler and more united.  My passion for software start when I was a child dreaming up ideas and making them come true with programs like Scratch. 
 - 🌱 I’m currently learning about C++ 16hrs a week.
 - 💞️ I’m looking to collaborate on a project to gain experience in teamwork.
 
