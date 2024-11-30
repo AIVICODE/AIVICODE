@@ -56,7 +56,7 @@
 
 <!--icons and links-->
 <p align="center">
-[![linkedin](https://media.licdn.com/dms/image/v2/D4D03AQHybdtPApTviQ/profile-displayphoto-shrink_400_400/B4DZN.YPCaG0Ak-/0/1732992103397?e=1738195200&v=beta&t=jnkPz2O_KHNWJfzgOWSRa4-I8fu1g6iGNtOvuz-XzXc)](https://www.linkedin.com/in/iv%C3%A1n-dos-santos-856040339/)
+<a href="https://www.linkedin.com/in/iv%C3%A1n-dos-santos-856040339/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/D4D03AQHybdtPApTviQ/profile-displayphoto-shrink_400_400/B4DZN.YPCaG0Ak-/0/1732992103397?e=1738195200&v=beta&t=jnkPz2O_KHNWJfzgOWSRa4-I8fu1g6iGNtOvuz-XzXc" alt="linkedin" height="50" width="50" /></a>
 
 
   
