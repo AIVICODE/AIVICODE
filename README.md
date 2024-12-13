@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on Java, exploring new features and technologies.
 
-- 📱  I've keen interest in develop mobile programs. So,I'm learning **Flutter**
+- 📱  I've keen interest in develop mobile apps. So,I'm learning **Flutter**
 
 - 💬 Ask me about Flutter, Dart, Firebase, Java, MySQL
 
