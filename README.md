@@ -6,7 +6,7 @@
 
 - 📱  I've keen interest in develop mobile apps. So,I'm learning **Flutter**
 
-- 💬 Ask me about Flutter, Dart, Firebase, Java, MySQL
+- 💬 Ask me about Python, Firebase, Java, MySQL
 
 - 📫 How to reach me 👀ivandosa33@gmail.com
 <!--Intro end-->
