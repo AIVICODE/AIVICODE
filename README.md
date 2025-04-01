@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m Iván
   
-- 🔭 I’m currently working on Java, exploring new features and technologies.
+- 🔭 I’m currently working on Python, exploring new features and technologies.
 
 - 📱  I've keen interest in develop mobile apps. So,I'm learning **Flutter**
 
-- 💬 Ask me about Python, Firebase, Java, MySQL
+- 💬 Ask me about Python, MySQL
 
 - 📫 How to reach me 👀ivandosa33@gmail.com
 <!--Intro end-->
